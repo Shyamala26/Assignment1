@@ -1,4 +1,4 @@
-//main Class
+//This is main Class 
 package inheritance;
 
 public class MainClass {
