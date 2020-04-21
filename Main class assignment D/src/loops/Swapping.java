@@ -1,4 +1,4 @@
-//Swapping of two number without using third variable
+//Swapping of two number without using third variable  -- done
 package loops;
 import java.util.Scanner;
 

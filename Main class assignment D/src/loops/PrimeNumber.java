@@ -1,4 +1,4 @@
-// Number is Prime or NOT
+// Number is Prime or NOT  -- done
 package loops;
 
 import java.util.Scanner;
