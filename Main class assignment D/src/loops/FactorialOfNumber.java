@@ -19,7 +19,7 @@ public class FactorialOfNumber {
 		}
 
 		for (int i = n; i > 0; i--) {
-        b = b * i;
+			b = b * i;
 		}
 		System.out.println("Factorial Number is : " + b);
 		s.close();

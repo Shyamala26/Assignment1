@@ -12,10 +12,10 @@ public class TablePrint {
 		int a = s.nextInt();
 
 		// Logic
-            for (int i = 0; i <= 20; i++) {
+		for (int i = 0; i <= 20; i++) {
 			System.out.println(a + " " + "*" + " " + i + " " + "=" + " " + a * i);
 		}
-   s.close();
+		s.close();
 	}
 
 	public static void main(String[] args) {
